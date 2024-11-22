@@ -32,6 +32,10 @@ Please choose a topic from the history of medicine (see suggestions below) and s
 - https://en.wikipedia.org/wiki/History_of_neurology_and_neurosurgery
 - https://pubmed.ncbi.nlm.nih.gov/26515617/
 
+### Radiology
+
+- [The discovery of x-rays](https://litfl.com/8-november-1895-x-rays-discovered/)
+
 ### Traditional healing (bomoh and dukun) and traditional herbs and plants in Malaysia
 
 - https://www.ukm.my/news/archive/year-2012/october-2012/traditional-malay-health-practitioners-never-have-formal-training-ukm-study/
